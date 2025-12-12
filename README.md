@@ -14,7 +14,7 @@ Me chamo Maria Luiza Garcia, tenho 26 anos e sou do interior de São Paulo. Sou 
     title="Windows" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.citypng.com/public/uploads/preview/hd-windows-11-logo-icon-transparent-background-701751694967888zqtluh5aaw.png?v=2025082902" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
 />
 <img 
     align="left" 
