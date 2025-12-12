@@ -11,15 +11,15 @@ Me chamo Maria Luiza Garcia, tenho 26 anos e sou do interior de São Paulo. Sou 
 <img 
     align="left" 
     alt="Windows"
-    title="Windows" 
+    title="Windows / Server" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
 />
 <img 
     align="left" 
-    alt="Ubuntu" 
-    title="Ubuntu"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
